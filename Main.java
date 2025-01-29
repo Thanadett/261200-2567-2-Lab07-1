@@ -54,6 +54,10 @@ public class Main {
         favoriteColors.put("Romeo", Color.GREEN);
         favoriteColors.put("Adam", Color.RED);
         favoriteColors.put("Eve", Color.BLUE);
+        favoriteColors.put("Robert", Color.BLACK);
+        favoriteColors.put("Mark", Color.WHITE);
+        favoriteColors.put("Pedro", Color.YELLOW);
+        favoriteColors.put("Cole", Color.BLUE);
 
         Set<String> keySet1 = favoriteColors.keySet();
         for (String key : keySet1) {
@@ -68,6 +72,10 @@ public class Main {
         treeMap.put("Romeo", Color.GREEN);
         treeMap.put("Adam", Color.RED);
         treeMap.put("Eve", Color.BLUE);
+        treeMap.put("Robert", Color.BLACK);
+        treeMap.put("Mark", Color.WHITE);
+        treeMap.put("Pedro", Color.YELLOW);
+        treeMap.put("Cole", Color.BLUE);
 
         Set<String> keySet2 = treeMap.keySet();
         for (String key : keySet2) {
